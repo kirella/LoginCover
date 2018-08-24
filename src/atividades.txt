@@ -1,0 +1,10 @@
+Implementar:
+
+ -  1.Tela com lista de usuários registrados
+    2.Ações de Editar e Deletar usuários
+    3.Tela de Edição (criar o arquivo Register/edit.html)
+    4.Se o usuário vier do link do menu com o nome de usuário não passe nenhum parâmetro e utilize o usuário logado.
+    5.Vindo da lista de usuários registrados passar como parâmetro
+    6.Register/edit.html?email=matheus@matheus.com
+    7.Tela de delete para o usuário confirmar se está deletando o usuário correto.
+    8.Para acessar ambas as telas o usuário deve estar logado.
